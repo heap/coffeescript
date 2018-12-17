@@ -17,10 +17,6 @@
     "lib": "./lib/coffee-script"
   },
   "main": "./lib/coffee-script/coffee-script",
-  "bin": {
-    "coffee": "./bin/coffee",
-    "cake": "./bin/cake"
-  },
   "files": [
     "bin",
     "lib",
